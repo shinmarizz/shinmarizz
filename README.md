@@ -2,7 +2,7 @@
 <h3 align="center">Mahasiswa Teknik Geodesi Universitas Diponegoro | GIS & Remote Sensing Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Universitas-Diponegoro-1E3A5F?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Universitas Diponegoro-1E3A5F?style=for-the-badge&logo=readthedocs&logoColor=white" />
   <img src="https://img.shields.io/badge/Fokus-Geospatial%20Analysis-2E8B57?style=for-the-badge&logo=googleearth&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Undergraduate-orange?style=for-the-badge" />
 </p>
