@@ -113,7 +113,7 @@ Selain aktif dalam perkuliahan, saya juga berkontribusi pada **OpenStreetMap** d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shinmarizz&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?shinmarizz=shinmarizz&show_icons=true&theme=default" />
 </p>
 
 
