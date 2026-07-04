@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<h1 align="center">Halo, Saya [Nama Anda] 👋</h1>
-<h3 align="center">Mahasiswa Teknik Geodesi | GIS & Remote Sensing Enthusiast</h3>
+<h1 align="center">Halo, Saya Adnan Yusuf Hartawan 👋</h1>
+<h3 align="center">Mahasiswa Teknik Geodesi Universitas Diponegoro | GIS & Remote Sensing Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Universitas-Diponegoro-1E3A5F?style=for-the-badge&logo=readthedocs&logoColor=white" />
@@ -13,29 +13,27 @@
 
 ## 👤 Tentang Saya
 
-Saya adalah mahasiswa **Teknik Geodesi, Universitas Diponegoro (Undip)** angkatan 2022, dengan minat besar pada dunia **Geographic Information System (GIS)** dan **Penginderaan Jauh (Remote Sensing)**. Saya tertarik mendalami analisis data geospasial mulai dari akuisisi data, pemrosesan citra satelit, hingga pengembangan aplikasi pemetaan berbasis web (WebGIS).
+Saya adalah mahasiswa **Teknik Geodesi, Universitas Diponegoro (Undip)** angkatan 2024, dengan minat besar pada dunia **Geographic Information System (GIS)** dan **Penginderaan Jauh (Remote Sensing)**. Saya tertarik mendalami analisis data geospasial mulai dari akuisisi data, pemrosesan citra satelit, hingga pengembangan aplikasi pemetaan berbasis web (WebGIS).
 
 Selain aktif dalam perkuliahan, saya juga berkontribusi pada **OpenStreetMap** dan pernah menggunakan **MAPID** sebagai platform survei lapangan dan WebGIS.
 
-- 🎓 Mahasiswa S1 Teknik Geodesi — Universitas Diponegoro (2022 – sekarang)
-- 🌍 Fokus minat: GIS, Remote Sensing, Fotogrametri, Survei Geodetik, dan Basis Data Spasial
-- 🛰️ Aktif mengerjakan proyek berbasis **Google Earth Engine**, **Python**, dan **WebGIS**
-- 📍 Berdomisili di [Kota Anda]
-- 📫 Kontak: [email Anda] | [LinkedIn Anda]
+- 🎓 Mahasiswa S1 Teknik Geodesi — Universitas Diponegoro (2024 – sekarang)
+- 🌍 Fokus minat: GIS, Remote Sensing, Fotogrametri, Survei Terestris, dan Basis Data Spasial
+- 🛰️ Ketertarikan terhadap bidang **Geographic Information System (GIS)** dan **Remote Sensiing**
+- 📍 Berdomisili di Kota Bekasi
+- 📫 Kontak: adnanyusufhartawan06@gmail.com | https://www.linkedin.com/in/adnanyusufh/
 
 ---
 
 ## 💼 Pengalaman Kerja
 
 ### Magang — Kantor Pertanahan Kota Administrasi Jakarta Timur
-**[Bulan] [Tahun] – [Bulan] [Tahun]**
+**Januari 2026 – (Satu Bulan)**
 
 - Terlibat dalam kegiatan terkait survei dan pemetaan pertanahan di lingkup Kota Administrasi Jakarta Timur
-- Membantu proses pengolahan data spasial pertanahan dan administrasi kadastral
-- [Tambahkan detail tugas spesifik: pengukuran bidang tanah, pemetaan digital, GeoKKP, dsb.]
-- [Tambahkan pencapaian atau output yang dihasilkan selama magang]
+- Membantu proses pengukuran bidang tanah di daerah Kota Administrasi Jakarta Timur 
+- Membantu melakukan pengukuran sebagai asisten surveyor di perumahan daerah Ciracas, Jakarta Timur selusa 5000 m2
 
-> 💡 *Silakan lengkapi bagian ini dengan detail tugas, tools yang digunakan (contoh: GeoKKP, AutoCAD, ArcGIS/QGIS), dan pencapaian selama magang agar lebih spesifik.*
 
 ---
 
@@ -48,12 +46,11 @@ Selain aktif dalam perkuliahan, saya juga berkontribusi pada **OpenStreetMap** d
 | **Mangrove Mapping Kabupaten Karawang** | Deteksi dan pemetaan ekosistem mangrove menggunakan citra Sentinel-2 | Google Earth Engine, NDVI, MVI, CMRI, klasifikasi berbasis aturan |
 | **Choropleth Map Kota Bekasi** | Pembuatan peta choropleth dan laporan analisis spasial untuk tugas mata kuliah GIS Fundamental | GeoPandas, Folium, Plotly, QGIS, Overpass Turbo (OSM) |
 | **Spatial Database Kecamatan Tembalang** | Pembaruan geometri jalan pada basis data spasial menggunakan data koordinat CSV | PostgreSQL, PostGIS |
-| **Flood-GIS Prototype** | Prototipe WebGIS untuk visualisasi data kebencanaan banjir | HTML, CSS, JavaScript, Leaflet.js |
-| **[Tambahkan proyek lain]** | [Deskripsi singkat] | [Tools] |
+
 
 > 🔗 *Tambahkan tautan repository masing-masing proyek di sini, contoh: `[SukabumiLC](https://github.com/username/sukabumilc)`*
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -108,28 +105,26 @@ Selain aktif dalam perkuliahan, saya juga berkontribusi pada **OpenStreetMap** d
 
 - 🛰️ **Remote Sensing** — analisis citra satelit (Landsat, Sentinel-2), deteksi perubahan tutupan lahan (LULC), dan indeks vegetasi/kebakaran (NDVI, dNBR, NBR)
 - 🗺️ **Geographic Information System (GIS)** — pengembangan WebGIS, analisis spasial, dan sistem basis data spasial (PostGIS)
-- 📸 **Fotogrametri** — Bundle Block Adjustment (BBA), aerial triangulation, dan pemetaan berbasis UAV
-- 📐 **Survei & Geodesi** — hitung perataan kuadrat terkecil, proyeksi peta (UTM, Transverse Mercator), dan survei rekayasa
-- 🏛️ **Kadaster & Pertanahan** — pendaftaran tanah, batas bidang, dan sistem informasi pertanahan (GeoKKP, SRGI 2013)
+- 📸 **Fotogrametri** — Akuisisi dan pengolahan foto udara
+- 📐 **Survei & Geodesi** — Survei terestris dan survei rekayasa
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shinmarizz&show_icons=true&theme=default" />
 </p>
 
-> ⚠️ Ganti `USERNAME` dengan username GitHub Anda agar statistik ini tampil dengan benar.
 
 ---
 
 ## 📫 Hubungi Saya
 
 <p>
-  <a href="mailto:email_anda@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/username_anda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/username_anda"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:adnanyusufhartawan06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/adnanyusufh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/adnanyusuf06"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
