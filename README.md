@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Halo, Saya Adnan Yusuf Hartawan 👋</h1>
 <h3 align="center">Mahasiswa Teknik Geodesi Universitas Diponegoro | GIS & Remote Sensing Enthusiast</h3>
 
@@ -113,7 +111,7 @@ Selain aktif dalam perkuliahan, saya juga berkontribusi pada **OpenStreetMap** d
 ## 📊 GitHub Stats
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinmarizz)](https://github.com/anuraghazra/github-readme-stats)
+[![Shinmarizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinmarizz)](https://github.com/shinmarizz/github-readme-stats)
 
 
 ---
