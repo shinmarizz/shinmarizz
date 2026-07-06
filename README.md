@@ -17,7 +17,7 @@ Selain aktif dalam perkuliahan, saya juga berkontribusi pada **OpenStreetMap** d
 
 - 🎓 Mahasiswa S1 Teknik Geodesi — Universitas Diponegoro (2024 – sekarang)
 - 🌍 Fokus minat: GIS, Remote Sensing, Fotogrametri, Survei Terestris, dan Basis Data Spasial
-- 🛰️ Ketertarikan terhadap bidang **Geographic Information System (GIS)** dan **Remote Sensiing**
+- 🛰️ Ketertarikan terhadap bidang **Geographic Information System (GIS)** dan **Remote Sensing**
 - 📍 Berdomisili di Kota Bekasi
 - 📫 Kontak: adnanyusufhartawan06@gmail.com | https://www.linkedin.com/in/adnanyusufh/
 
