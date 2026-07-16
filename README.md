@@ -37,14 +37,6 @@ Selain aktif dalam perkuliahan, saya juga berkontribusi pada **OpenStreetMap** d
 
 ## 🚀 Proyek yang Pernah Dikerjakan
 
-# Ringkasan Proyek — Adnan Yusuf Hartawan (shinmarizz)
-
-> Sumber: [github.com/shinmarizz](https://github.com/shinmarizz)
-
-Adnan adalah mahasiswa Teknik Geodesi Universitas Diponegoro dengan fokus pada GIS, remote sensing, dan analisis data geospasial. Berikut ringkasan proyek-proyek publik yang pernah dikerjakan berdasarkan repository di akun GitHub-nya.
-
----
-
 | No | Proyek | Bahasa | Deskripsi Singkat |
 |---|---|---|---|
 | 1 | [LandUse-ClassificationPurwakartaCity-Using-MachineLearning](https://github.com/shinmarizz/LandUse-ClassificationPurwakartaCity-Using-MachineLearning) | Jupyter Notebook (Python) | Klasifikasi tutupan/penggunaan lahan Kota Purwakarta menggunakan pendekatan machine learning. |
