@@ -44,7 +44,7 @@ Selain aktif dalam perkuliahan, saya juga berkontribusi pada **OpenStreetMap** d
 | 3 | [LandCover Classification SerangDistrict](https://github.com/shinmarizz/GEE-LandCover-Classification-SerangDistrict) | JavaScript | Pemetaan tutupan lahan Kabupaten Serang dari citra Landsat 8 dengan algoritma CART di Google Earth Engine. |
 | 4 | [Chloropleth Map Bekasi City Python Based](https://github.com/shinmarizz/Chloropleth-Map-Bekasi-City-Python-based) | Jupyter Notebook (Python) | Visualisasi peta choropleth jumlah penduduk & persebaran kafe Kota Bekasi. |
 | 5 | [Change Detection Kota Sukabumi](https://github.com/shinmarizz/Change-Detection-Deforestation-SukabumiCity-GEE)| Google Earth Engine / Python | Analisis deteksi perubahan (change detection) untuk memantau deforestasi di Kabupaten Sukabumi menggunakan citra satelit multi-temporal. |
-| 6 | [Analisis Mangrove Kabupaten Karawang] (https://github.com/shinmarizz/ndvi-mvi-mangrove-gee-code-editor) | Google Earth Engine / Python | Analisis indeks vegetasi NDVI dan MVI untuk memantau kondisi vegetasi di Kabupaten Karawang. |
+| 6 | [Analisis Mangrove Kabupaten Karawang](https://github.com/shinmarizz/ndvi-mvi-mangrove-gee-code-editor) | Google Earth Engine / Python | Analisis indeks vegetasi NDVI dan MVI untuk memantau kondisi vegetasi di Kabupaten Karawang. |
 
 ---
 
