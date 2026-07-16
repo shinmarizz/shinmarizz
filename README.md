@@ -39,11 +39,11 @@ Selain aktif dalam perkuliahan, saya juga berkontribusi pada **OpenStreetMap** d
 
 | No | Proyek | Bahasa | Deskripsi Singkat |
 |---|---|---|---|
-| 1 | [LandUse-ClassificationPurwakartaCity-Using-MachineLearning](https://github.com/shinmarizz/LandUse-ClassificationPurwakartaCity-Using-MachineLearning) | Jupyter Notebook (Python) | Klasifikasi tutupan/penggunaan lahan Kota Purwakarta menggunakan pendekatan machine learning. |
-| 2 | [landsurfacetemperature-bekasicity-gee](https://github.com/shinmarizz/landsurfacetemperature-bekasicity-gee) | JavaScript | WebGIS interaktif untuk memantau Land Surface Temperature (LST) Kota Bekasi 2015–2025 via Google Earth Engine. |
-| 3 | [GEE-LandCover-Classification-SerangDistrict](https://github.com/shinmarizz/GEE-LandCover-Classification-SerangDistrict) | JavaScript | Pemetaan tutupan lahan Kabupaten Serang dari citra Landsat 8 dengan algoritma CART di Google Earth Engine. |
-| 4 | [Chloropleth-Map-Bekasi-City-Python-based](https://github.com/shinmarizz/Chloropleth-Map-Bekasi-City-Python-based) | Jupyter Notebook (Python) | Visualisasi peta choropleth jumlah penduduk & persebaran kafe Kota Bekasi. |
-| 5 | Change Detection Deforestasi Kabupaten Sukabumi | Google Earth Engine / Python | Analisis deteksi perubahan (change detection) untuk memantau deforestasi di Kabupaten Sukabumi menggunakan citra satelit multi-temporal. |
+| 1 | [LandUse ClassificationPurwakartaCity Using MachineLearning](https://github.com/shinmarizz/LandUse-ClassificationPurwakartaCity-Using-MachineLearning) | Jupyter Notebook (Python) | Klasifikasi tutupan/penggunaan lahan Kota Purwakarta menggunakan pendekatan machine learning. |
+| 2 | [WebGIS LST Kota Bekasi](https://github.com/shinmarizz/landsurfacetemperature-bekasicity-gee) | JavaScript | WebGIS interaktif untuk memantau Land Surface Temperature (LST) Kota Bekasi 2015–2025 via Google Earth Engine. |
+| 3 | [LandCover Classification SerangDistrict](https://github.com/shinmarizz/GEE-LandCover-Classification-SerangDistrict) | JavaScript | Pemetaan tutupan lahan Kabupaten Serang dari citra Landsat 8 dengan algoritma CART di Google Earth Engine. |
+| 4 | [Chloropleth Map Bekasi City Python Based](https://github.com/shinmarizz/Chloropleth-Map-Bekasi-City-Python-based) | Jupyter Notebook (Python) | Visualisasi peta choropleth jumlah penduduk & persebaran kafe Kota Bekasi. |
+| 5 | [Change Detection Kota Sukabumi](https://github.com/shinmarizz/Change-Detection-Deforestation-SukabumiCity-GEE)| Google Earth Engine / Python | Analisis deteksi perubahan (change detection) untuk memantau deforestasi di Kabupaten Sukabumi menggunakan citra satelit multi-temporal. |
 | 6 | NDVI-MVI Kabupaten Karawang | Google Earth Engine / Python | Analisis indeks vegetasi NDVI dan MVI untuk memantau kondisi vegetasi di Kabupaten Karawang. |
 
 ---
