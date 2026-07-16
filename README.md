@@ -37,14 +37,6 @@ Selain aktif dalam perkuliahan, saya juga berkontribusi pada **OpenStreetMap** d
 
 ## 🚀 Proyek yang Pernah Dikerjakan
 
-| Proyek | Deskripsi | Tools/Metode |
-|---|---|---|
-| **SukabumiLC** | Analisis perubahan tutupan lahan (LULC) Kota Sukabumi 2015–2025 lengkap dengan WebGIS interaktif | Google Earth Engine, dNBR, Random Forest, CART|
-| **LULC Classification Purwakarta** | Klasifikasi tutupan lahan menggunakan citra Landsat 8 dengan metode machine learning | Python, Google Earth Engine, Random Forest (scikit-learn) |
-| **Mangrove Mapping Kabupaten Karawang** | Deteksi dan pemetaan ekosistem mangrove menggunakan citra Sentinel-2 | Google Earth Engine, NDVI, MVI, CMRI, klasifikasi berbasis aturan |
-| **Choropleth Map Kota Bekasi** | Pembuatan peta choropleth dan laporan analisis spasial untuk tugas mata kuliah | GeoPandas, Folium, Plotly, QGIS, Overpass Turbo (OSM) |
-| **Spatial Database Kecamatan Tembalang** | Pemetaan persebaran POI Kecamatan Tembalang berbasis data spasial| PostgreSQL, PostGIS |
-
 
 
 ## 🛠️ Tech Stack
